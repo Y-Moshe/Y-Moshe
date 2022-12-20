@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Moshe Nehemiah
-I'm a Full-Stack Developer with years of practice followed by the best practice, Looking deeper and behind the scene, a Great self, and a quick learner full of motivation.
+A Full-Stack Developer with years of practice followed by the best practice, Looking deeper and behind the scene, a Great self, and a quick learner full of motivation.
 I've gained experience by learning and building projects which are listed in my "Repositories" GitHub.
 
 
