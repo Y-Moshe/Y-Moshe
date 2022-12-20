@@ -10,3 +10,5 @@ I've gained experience by learning and building projects which are listed in my 
 - 🌱  I’m currently learning React.js and Angular.js and more
 
 - 📫  You can reach me by email at moshe.nehemiah@gmail.com
+
+- ⭐ My latest works and most impressive are listed down below (Pinned)
