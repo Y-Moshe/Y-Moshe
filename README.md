@@ -2,7 +2,7 @@
 A Full-Stack Developer with years of practice followed by the best practice, Looking deeper and behind the scene, a Great self, and a quick learner full of motivation.
 I've gained experience by learning and building projects which are listed in my "Repositories" GitHub.
 
-- 🌱  I’m currently learning Angular and .NET with C#
+- 🌱  I’m currently learning `Angular` and `.NET` with `C#`
 
 - 📫  You can reach me by email at moshe.nehemiah@gmail.com
 
