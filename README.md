@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Moshe Nehemiah
 #### Full-Stack Developer with years of experience.
 
-Stacks: MEAN, MERN also C#, and .NET Framework.
-Using Redux/thunk, Redux-toolkit, and NgRx Store for global state management.
+Stacks: MEAN, MERN also C#, and .NET Framework.  
 Also experienced with Vue, Bootstrap, REST APIs, SQLite, PostgreSQL, Redis, and more.
 
 - ⚙ OS: Linux - Ubuntu, Windows | GIT: high-level | Experienced with AWS, Digital Ocean, Firebase
